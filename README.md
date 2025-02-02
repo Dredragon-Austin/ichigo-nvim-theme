@@ -9,7 +9,7 @@ An Ichigo-inspired colorscheme for Neovim.
 return {
   -- ... other Lazy.nvim config ...
   {
-    "username/nvim-ichigo", -- Replace username with your GitHub username
+    "Dredragon-Austin/nvim-ichigo", -- Replace username with your GitHub username
     config = function()
       require("ichigo")  -- No 'plugins.' prefix since it's in the root of the repo
     end,
