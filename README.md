@@ -2,7 +2,8 @@
 
 An Ichigo-inspired colorscheme for Neovim.
 
-![Screenshot](screenshot.png)  ## Installation (Lazy.nvim)
+![Screenshot](screenshot.png)  
+## Installation (Lazy.nvim)
 
 ```lua
 return {
