@@ -1,0 +1,1 @@
+# ichigo-nvim-theme
